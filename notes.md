@@ -12,5 +12,10 @@
 - requirements, such as a defined term
 
 ### Blocks
-- a block is distinct from
+- a block is distinct from its numbering
+  - this is a block
+  `1. I am a block.`
+  - this is a block
+  `1. I am a section of a block.
+  `
 
