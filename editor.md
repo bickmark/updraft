@@ -6,6 +6,7 @@
 - commenting system
 - diff system
 - ability to turn contracts into questionnaires easily
+- color-coded formatting
 
 ## Features
 - variables, such as a party name
