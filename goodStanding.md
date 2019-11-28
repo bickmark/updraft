@@ -1,0 +1,7 @@
+- form to input data
+- create documents
+- distribute through docusign for signing
+- receive, verify
+- submit to BC Online
+- receive verification
+- email to you
