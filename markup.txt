@@ -3,8 +3,12 @@
 
 #date
 
+
+
 #. denotes numbered section
 ##. denotes numbered subsection
 ###. denotes numbered subsection
+notes:
+-leading spaces do not matter
 
 #... denotes signature block
