@@ -1,6 +1,10 @@
 # title
 ## subtitle
 
+#date
+
 #. denotes numbered section
 ##. denotes numbered subsection
 ###. denotes numbered subsection
+
+#... denotes signature block
