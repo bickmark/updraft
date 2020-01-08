@@ -10,5 +10,6 @@
 ###. denotes numbered subsection
 notes:
 -leading spaces do not matter
+-capitalization is respected
 
 #... denotes signature block
