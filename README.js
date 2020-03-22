@@ -18,3 +18,5 @@ class vs instance
 
 create classes which can be documents or sets
 instantiate instances which require settings
+
+- address need to have same provision in several different sections
